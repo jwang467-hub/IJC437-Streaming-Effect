@@ -21,5 +21,4 @@ The dataset combines Billboard Hot 100 chart data with Spotify audio features an
 
 ## Author
 Jinxian Wang
-
-MSc Data Science
+Msc Data Science
