@@ -20,5 +20,5 @@ This project explores how popular music in the Billboard Hot 100 has evolved bet
 The dataset combines Billboard Hot 100 chart data with Spotify audio features and lyrics, obtained from Kaggle.
 
 ## Author
-Freya  
+Jinxian Wang
 MSc Data Science
