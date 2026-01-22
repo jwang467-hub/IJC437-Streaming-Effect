@@ -154,7 +154,7 @@ ggplot(df_trend, aes(x = year, y = mean_valence)) +
   geom_point(color = "steelblue", size = 2) + 
   geom_smooth(method = "lm", color = "red", fill = "pink") + 
   theme_minimal() +
-  labs(title = "RQ3: The 24-Year Decline of Musical Happiness (Valence)",
+  labs(title = "RQ3: The 24-Year of Musical Happiness (Valence)",
        subtitle = "Linear regression showing the downward emotional trend",
        x = "Year", 
        y = "Average Valence Score")
